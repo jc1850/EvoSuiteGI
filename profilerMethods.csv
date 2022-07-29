@@ -1,0 +1,11 @@
+Project,MethodIndex,Method,Count,Tests
+evosuite,1,"org.evosuite.utils.FileIOUtils.recursiveCopy(File,File)",1,org.evosuite.utils.FileIOUtilsTest.testCopyDirectoryAndOverwriteFilesIfNeeded []
+evosuite,2,org.evosuite.utils.RegexDistanceUtils.cacheRegex(String),3,"org.evosuite.TestRegexInstantiation.testHTMLRegex [],org.evosuite.utils.TestRegexDistance.testThreeOrFour [],org.evosuite.symbolic.solver.avm.StringAVMTests.testInsertRight []"
+evosuite,3,org.evosuite.symbolic.solver.DistanceEstimator.getDistance(Collection<Constraint<?>>),2,"org.evosuite.symbolic.solver.avm.TestConstraintSolver2.test [],org.evosuite.symbolic.solver.avm.TestStringSearch.testEqualsIgnoreCaseFalseConstant []"
+evosuite,4,org.evosuite.testcase.TestCodeVisitor.getClassName(Class<?>),2,"org.evosuite.testcase.TestCodeVisitorTest.testGenerics_staticMethod [],org.evosuite.testcase.DowncastTest.testFieldReferenceNeedsDowncast []"
+evosuite,5,org.evosuite.testcase.TestCodeVisitor.visitPrimitiveStatement(PrimitiveStatement<?>),1,org.evosuite.testcase.TestCodeVisitorTest.testInnerClassEnum []
+evosuite,6,"org.evosuite.testcase.TestFactory.addConstructor(TestCase,GenericConstructor,Type,int,int)",1,org.evosuite.testcase.TestCodeVisitorTest.testInnerClassEnum []
+evosuite,7,"org.evosuite.instrumentation.testability.StringHelper.StringRegionMatches(String,boolean,int,String,int,int)",1,org.evosuite.instrumentation.testability.StringHelperTest.testNotRegionMatchesStart1 []
+evosuite,8,org.evosuite.utils.MersenneTwister.nextGaussian(),1,org.evosuite.instrumentation.testability.TestDoubleFloatComparison.testDelta []
+evosuite,9,org.evosuite.symbolic.expr.DistanceCalculator.getStringDistance(StringBinaryComparison),1,org.evosuite.symbolic.solver.avm.TestStringSearch.testEqualsIgnoreCaseTrueConstant []
+evosuite,10,"org.evosuite.symbolic.expr.DistanceCalculator.visit(RealConstraint,Void)",1,org.evosuite.symbolic.solver.avm.TestRealSearch.testLTVariable []
