@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.util.regression.impl.EkstaziRTSTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:50:30" hostname="james-HP-ProDesk-400-G6-MT" time="0.018">
+  <properties/>
+  <testcase name="testConstructor2" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.004"/>
+  <testcase name="testGetGoal" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.0"/>
+  <testcase name="testLinkTestsToHotMethods" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.01"/>
+  <testcase name="testGetTargetClassesToTestCases2" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.001"/>
+  <testcase name="testGetTargetClassesToTestCases3" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.0"/>
+  <testcase name="testGetTargetClassesToTestCases4" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.0"/>
+  <testcase name="testGetArgumentLineWithTempDir" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.003"/>
+  <testcase name="testGetArgumentLine" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.0"/>
+  <testcase name="testConstructor" classname="gin.util.regression.impl.EkstaziRTSTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

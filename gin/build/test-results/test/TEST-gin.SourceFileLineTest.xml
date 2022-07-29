@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.SourceFileLineTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:45:12" hostname="james-HP-ProDesk-400-G6-MT" time="0.379">
+  <properties/>
+  <testcase name="getLineCount" classname="gin.SourceFileLineTest" time="0.322"/>
+  <testcase name="getLineIDsNonEmptyOrCommentsMethod" classname="gin.SourceFileLineTest" time="0.009"/>
+  <testcase name="getLineCountMethod" classname="gin.SourceFileLineTest" time="0.007"/>
+  <testcase name="getLineIDsOnlyCommentsMethod" classname="gin.SourceFileLineTest" time="0.006"/>
+  <testcase name="getSource" classname="gin.SourceFileLineTest" time="0.017"/>
+  <testcase name="getLineIDsEmptyMethod" classname="gin.SourceFileLineTest" time="0.011"/>
+  <testcase name="getFilename" classname="gin.SourceFileLineTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

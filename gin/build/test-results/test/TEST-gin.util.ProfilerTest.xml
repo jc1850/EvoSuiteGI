@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.util.ProfilerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:52:11" hostname="james-HP-ProDesk-400-G6-MT" time="0.071">
+  <properties/>
+  <testcase name="testEnumProfiling" classname="gin.util.ProfilerTest" time="0.071"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

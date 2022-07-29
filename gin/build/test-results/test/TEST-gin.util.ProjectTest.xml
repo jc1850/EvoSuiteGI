@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.util.ProjectTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:51:09" hostname="james-HP-ProDesk-400-G6-MT" time="53.431">
+  <properties/>
+  <testcase name="runUnitTestGradle" classname="gin.util.ProjectTest" time="12.823"/>
+  <testcase name="setGradleVersion" classname="gin.util.ProjectTest" time="0.097"/>
+  <testcase name="getMavenHome" classname="gin.util.ProjectTest" time="0.125"/>
+  <testcase name="runUnitTest" classname="gin.util.ProjectTest" time="0.106"/>
+  <testcase name="getProjectName" classname="gin.util.ProjectTest" time="0.217"/>
+  <testcase name="allSourceDirs" classname="gin.util.ProjectTest" time="0.113"/>
+  <testcase name="getBuildType" classname="gin.util.ProjectTest" time="0.08"/>
+  <testcase name="getModuleDirs" classname="gin.util.ProjectTest" time="0.104"/>
+  <testcase name="runAllUnitTests" classname="gin.util.ProjectTest" time="0.078"/>
+  <testcase name="setMavenHome" classname="gin.util.ProjectTest" time="0.069"/>
+  <testcase name="getGradleVersion" classname="gin.util.ProjectTest" time="0.066"/>
+  <testcase name="classpath" classname="gin.util.ProjectTest" time="26.363"/>
+  <testcase name="runUnitTestMaven" classname="gin.util.ProjectTest" time="0.067"/>
+  <testcase name="parseTestReports" classname="gin.util.ProjectTest" time="0.069"/>
+  <testcase name="getMethodSignature" classname="gin.util.ProjectTest" time="0.073"/>
+  <testcase name="testDetectionGradleMultiProject" classname="gin.util.ProjectTest" time="12.737"/>
+  <testcase name="allClassDirs" classname="gin.util.ProjectTest" time="0.083"/>
+  <testcase name="listOfMainClasses" classname="gin.util.ProjectTest" time="0.09"/>
+  <testcase name="findSourceFile" classname="gin.util.ProjectTest" time="0.07"/>
+  <system-out><![CDATA[Downloading https://services.gradle.org/distributions/gradle-4.10.2-bin.zip
+..........................................................................
+Unzipping /home/james/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2-bin.zip to /home/james/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv
+Set executable permissions for: /home/james/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/bin/gradle
+[WARN] Maven will be executed in interactive mode, but no input stream has been configured for this MavenInvoker instance.
+Downloading https://services.gradle.org/distributions/gradle-4.3-bin.zip
+.....................................................................
+Unzipping /home/james/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3-bin.zip to /home/james/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6
+Set executable permissions for: /home/james/.gradle/wrapper/dists/gradle-4.3-bin/452wx51oxqsia28686mgqhot6/gradle-4.3/bin/gradle
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

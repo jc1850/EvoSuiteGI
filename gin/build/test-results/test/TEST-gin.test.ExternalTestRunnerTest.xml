@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.test.ExternalTestRunnerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:45:43" hostname="james-HP-ProDesk-400-G6-MT" time="220.993">
+  <properties/>
+  <testcase name="testCreateTempDirectory" classname="gin.test.ExternalTestRunnerTest" time="0.233"/>
+  <testcase name="testCompileClassToTempDir" classname="gin.test.ExternalTestRunnerTest" time="0.767"/>
+  <testcase name="testRunTestsNewSubProcess" classname="gin.test.ExternalTestRunnerTest" time="175.856"/>
+  <testcase name="testPoisonShouldPassWithJ" classname="gin.test.ExternalTestRunnerTest" time="14.01"/>
+  <testcase name="testPoisonShouldFail" classname="gin.test.ExternalTestRunnerTest" time="5.228"/>
+  <testcase name="testPoisonShouldPass" classname="gin.test.ExternalTestRunnerTest" time="8.859"/>
+  <testcase name="testRunTestsFailFast" classname="gin.test.ExternalTestRunnerTest" time="3.876"/>
+  <testcase name="testRunTests" classname="gin.test.ExternalTestRunnerTest" time="4.482"/>
+  <testcase name="testRunTestsNewSubProcessFailFast" classname="gin.test.ExternalTestRunnerTest" time="7.67"/>
+  <system-out><![CDATA[2022-06-30 16:45:44 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/8252239044844652692
+2022-06-30 16:45:44 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/5010443849686791116
+2022-06-30 16:45:44 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/3097518970028625695
+2022-06-30 16:48:40 gin.test.ExternalTestRunner.deleteTempDirectory() INFO: Deleted temp dir: /tmp/3097518970028625695
+2022-06-30 16:48:40 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/1288952037885000515
+2022-06-30 16:48:54 gin.test.ExternalTestRunner.deleteTempDirectory() INFO: Deleted temp dir: /tmp/1288952037885000515
+2022-06-30 16:48:54 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/4291629634744296972
+2022-06-30 16:48:59 gin.test.ExternalTestRunner.deleteTempDirectory() INFO: Deleted temp dir: /tmp/4291629634744296972
+2022-06-30 16:49:00 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/5855983024332620147
+2022-06-30 16:49:08 gin.test.ExternalTestRunner.deleteTempDirectory() INFO: Deleted temp dir: /tmp/5855983024332620147
+2022-06-30 16:49:08 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/2816662402475513314
+2022-06-30 16:49:12 gin.test.ExternalTestRunner.deleteTempDirectory() INFO: Deleted temp dir: /tmp/2816662402475513314
+2022-06-30 16:49:12 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/7552949311349170010
+2022-06-30 16:49:17 gin.test.ExternalTestRunner.deleteTempDirectory() INFO: Deleted temp dir: /tmp/7552949311349170010
+2022-06-30 16:49:17 gin.test.ExternalTestRunner.createTempDirectory() INFO: Created temp dir: /tmp/31504173839538306
+2022-06-30 16:49:24 gin.test.ExternalTestRunner.deleteTempDirectory() INFO: Deleted temp dir: /tmp/31504173839538306
+]]></system-out>
+  <system-err><![CDATA[warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+]]></system-err>
+</testsuite>

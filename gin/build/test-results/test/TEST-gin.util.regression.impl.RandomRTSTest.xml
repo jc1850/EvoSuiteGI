@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.util.regression.impl.RandomRTSTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:50:30" hostname="james-HP-ProDesk-400-G6-MT" time="0.003">
+  <properties/>
+  <testcase name="testGetGoal" classname="gin.util.regression.impl.RandomRTSTest" time="0.001"/>
+  <testcase name="testLinkTestsToMethods" classname="gin.util.regression.impl.RandomRTSTest" time="0.002"/>
+  <testcase name="testGetArgumentLine" classname="gin.util.regression.impl.RandomRTSTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

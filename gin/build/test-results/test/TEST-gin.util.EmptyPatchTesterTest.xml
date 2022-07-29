@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.util.EmptyPatchTesterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:52:02" hostname="james-HP-ProDesk-400-G6-MT" time="8.926">
+  <properties/>
+  <testcase name="testSampleMethodInSubprocess" classname="gin.util.EmptyPatchTesterTest" time="2.234"/>
+  <testcase name="testCreateOutputDirectory" classname="gin.util.EmptyPatchTesterTest" time="0.042"/>
+  <testcase name="testSampleMethodInNewSubprocess" classname="gin.util.EmptyPatchTesterTest" time="6.59"/>
+  <testcase name="testSampleMethod" classname="gin.util.EmptyPatchTesterTest" time="0.06"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

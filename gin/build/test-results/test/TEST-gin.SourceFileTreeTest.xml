@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.SourceFileTreeTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:45:10" hostname="james-HP-ProDesk-400-G6-MT" time="1.955">
+  <properties/>
+  <testcase name="getStatementCount" classname="gin.SourceFileTreeTest" time="1.222"/>
+  <testcase name="findNodesByClass" classname="gin.SourceFileTreeTest" time="0.021"/>
+  <testcase name="matchedStatementSpace" classname="gin.SourceFileTreeTest" time="0.073"/>
+  <testcase name="getStatementCountMethod" classname="gin.SourceFileTreeTest" time="0.014"/>
+  <testcase name="statementList" classname="gin.SourceFileTreeTest" time="0.092"/>
+  <testcase name="getSource" classname="gin.SourceFileTreeTest" time="0.417"/>
+  <testcase name="statementListMethod" classname="gin.SourceFileTreeTest" time="0.021"/>
+  <testcase name="blockNumberFromID" classname="gin.SourceFileTreeTest" time="0.006"/>
+  <testcase name="statementNumberFromID" classname="gin.SourceFileTreeTest" time="0.006"/>
+  <testcase name="getNumberOfBlocks" classname="gin.SourceFileTreeTest" time="0.006"/>
+  <testcase name="getNumberOfBlocksMethod" classname="gin.SourceFileTreeTest" time="0.007"/>
+  <testcase name="getFilename" classname="gin.SourceFileTreeTest" time="0.051"/>
+  <testcase name="getNumberOfInsertionPointsInBlock" classname="gin.SourceFileTreeTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

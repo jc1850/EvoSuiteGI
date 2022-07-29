@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.EditTestIssue34" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:45:12" hostname="james-HP-ProDesk-400-G6-MT" time="0.214">
+  <properties/>
+  <testcase name="testToStringFromStringModifyNode" classname="gin.EditTestIssue34" time="0.07"/>
+  <testcase name="testToStringFromStringStatement" classname="gin.EditTestIssue34" time="0.032"/>
+  <testcase name="testToStringFromStringLine" classname="gin.EditTestIssue34" time="0.051"/>
+  <testcase name="testToStringFromStringMatchedStatement" classname="gin.EditTestIssue34" time="0.059"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

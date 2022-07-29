@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.LocalSearchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:50:29" hostname="james-HP-ProDesk-400-G6-MT" time="0.669">
+  <properties/>
+  <testcase name="neighbour" classname="gin.LocalSearchTest" time="0.656"/>
+  <testcase name="localSearch" classname="gin.LocalSearchTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

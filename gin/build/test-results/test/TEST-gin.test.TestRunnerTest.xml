@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.test.TestRunnerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:49:31" hostname="james-HP-ProDesk-400-G6-MT" time="57.205">
+  <properties/>
+  <testcase name="testEmptyPatch" classname="gin.test.TestRunnerTest" time="5.951"/>
+  <testcase name="testRunnerConstructor" classname="gin.test.TestRunnerTest" time="5.862"/>
+  <testcase name="usesInterfaceAndInterfaceClassOnClassPath" classname="gin.test.TestRunnerTest" time="6.556"/>
+  <testcase name="testInnerClass" classname="gin.test.TestRunnerTest" time="7.76"/>
+  <testcase name="testNotFailFast" classname="gin.test.TestRunnerTest" time="0.796"/>
+  <testcase name="testPatchWorks" classname="gin.test.TestRunnerTest" time="5.905"/>
+  <testcase name="testMultipleTestsProvided" classname="gin.test.TestRunnerTest" time="5.836"/>
+  <testcase name="testFailFast" classname="gin.test.TestRunnerTest" time="9.127"/>
+  <testcase name="testUseOfSuperClass" classname="gin.test.TestRunnerTest" time="9.41"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+warning: Implicitly compiled files were not subject to annotation processing.
+  Use -proc:none to disable annotation processing or -implicit to specify a policy for implicit compilation.
+1 warning
+]]></system-err>
+</testsuite>

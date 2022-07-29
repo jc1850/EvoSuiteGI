@@ -1,0 +1,58 @@
+gin/misc/FullyQualifiedNamesTest.java
+ gin.misc.FullyQualifiedNamesTest
+gin/util/ProfilerTest.java
+ gin.util.ProfilerTest
+gin/SourceFileTreeTest.java
+ gin.SourceFileTreeTest
+gin/TestConfiguration.java
+ gin.TestConfiguration
+gin/util/regression/RTSFactoryTest.java
+ gin.util.regression.RTSFactoryTest
+gin/edit/line/CopyLineTest.java
+ gin.edit.line.CopyLineTest
+gin/SourceFileLineTest.java
+ gin.SourceFileLineTest
+gin/util/regression/impl/RandomRTSTest.java
+ gin.util.regression.impl.RandomRTSTest
+gin/util/HotMethodTest.java
+ gin.util.HotMethodTest
+gin/util/ProjectTest.java
+ gin.util.ProjectTest
+gin/PatchTest.java
+ gin.PatchTest
+gin/util/MavenUtilsTest.java
+ gin.util.MavenUtilsTest
+gin/util/regression/impl/NoneRTSTest.java
+ gin.util.regression.impl.NoneRTSTest
+gin/util/RTSProfilerTest.java
+ gin.util.RTSProfilerTest
+gin/util/regression/impl/EkstaziRTSTest.java
+ gin.util.regression.impl.EkstaziRTSTest
+gin/EditTest.java
+ gin.EditTest
+gin/util/regression/impl/STARTSRTSTest.java
+ gin.util.regression.impl.STARTSRTSTest
+gin/EditTestIssue34.java
+ gin.EditTestIssue34
+gin/test/TestResultTest.java
+ gin.test.TestResultTest
+gin/test/CompilerTest.java
+ gin.test.CompilerTest
+gin/util/RandomSamplerTest.java
+ gin.util.RandomSamplerTest
+gin/util/GPFixTest.java
+ gin.util.GPFixTest
+gin/test/JUnitBridgeTest.java
+ gin.test.JUnitBridgeTest
+gin/util/DeleteEnumeratorTest.java
+ gin.util.DeleteEnumeratorTest
+gin/util/EmptyPatchTesterTest.java
+ gin.util.EmptyPatchTesterTest
+gin/test/CacheClassLoaderTest.java
+ gin.test.CacheClassLoaderTest
+gin/test/TestRunnerTest.java
+ gin.test.TestRunnerTest
+gin/LocalSearchTest.java
+ gin.LocalSearchTest
+gin/test/ExternalTestRunnerTest.java
+ gin.test.ExternalTestRunnerTest

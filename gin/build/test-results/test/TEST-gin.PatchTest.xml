@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.PatchTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:45:12" hostname="james-HP-ProDesk-400-G6-MT" time="0.28">
+  <properties/>
+  <testcase name="addLine" classname="gin.PatchTest" time="0.014"/>
+  <testcase name="addTree" classname="gin.PatchTest" time="0.022"/>
+  <testcase name="testToString" classname="gin.PatchTest" time="0.001"/>
+  <testcase name="remove" classname="gin.PatchTest" time="0.011"/>
+  <testcase name="applyMatchedStatements" classname="gin.PatchTest" time="0.053"/>
+  <testcase name="applyInsertNodeEdits" classname="gin.PatchTest" time="0.073"/>
+  <testcase name="writePatchedLineSourceToFile" classname="gin.PatchTest" time="0.058"/>
+  <testcase name="size" classname="gin.PatchTest" time="0.005"/>
+  <testcase name="testCloneLine" classname="gin.PatchTest" time="0.001"/>
+  <testcase name="testCloneTree" classname="gin.PatchTest" time="0.001"/>
+  <testcase name="applyLines" classname="gin.PatchTest" time="0.001"/>
+  <testcase name="addRandomEdit" classname="gin.PatchTest" time="0.002"/>
+  <testcase name="applyModifyNodeEdits" classname="gin.PatchTest" time="0.004"/>
+  <testcase name="writePatchedTreeSourceToFile" classname="gin.PatchTest" time="0.019"/>
+  <testcase name="applyStatements" classname="gin.PatchTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

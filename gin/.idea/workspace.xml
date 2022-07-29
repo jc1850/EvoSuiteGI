@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0273166f-e920-4c4d-9a65-1a9ded5232e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/gin/util/NSGAII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gin/util/NSGAIIInd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gin/util/NSGAIIPop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gin/util/NSGAInd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gin/util/NSGAPop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gin/PatchAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gin/PatchAnalyser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gin/test/ExternalTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gin/test/ExternalTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gin/test/TestRunListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gin/test/TestRunListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gin/test/UnitTestResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gin/test/UnitTestResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gin/util/Sampler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gin/util/Sampler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BZY8GOYpHxYAoa6NmPYF5PXg1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/james/challengeTrack/EvoSuiteGI/gin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/gin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gin.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProjectPatchAnalyser">
+    <configuration name="ProjectPatchAnalyser" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="gin.ProjectPatchAnalyser" />
+      <module name="gin.main" />
+      <option name="PROGRAM_PARAMETERS" value="-p evosuite -d ../evosuite/ -h /usr/share/maven -e res/bestpatches.csv   " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/build/gin.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="ShConfigurationType" nameIsGenerated="true">
+      <option name="SCRIPT_TEXT" value="java -cp build/gin.jar gin.util.GPMemory -p evosuite -d ../evosuite/ -mavenHome /usr/share/maven -m ../evosuite/methods.csv" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="run.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProjectPatchAnalyser" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="Shell Script.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0273166f-e920-4c4d-9a65-1a9ded5232e1" name="Changes" comment="" />
+      <created>1657114913074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657114913074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gin/util/MemoryProfiler.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gin/util/MemoryProfiler.java</url>
+          <line>368</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gin/test/InternalTestRunner.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gin/test/UnitTestResult.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gin/util/NSGAIIPop.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gin/ProjectPatchAnalyser.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gin/ProjectPatchAnalyser.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gin/ProjectPatchAnalyser.java</url>
+          <line>259</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gin$MemoryProfiler.ic" NAME="MemoryProfiler Coverage Results" MODIFIED="1657115213991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

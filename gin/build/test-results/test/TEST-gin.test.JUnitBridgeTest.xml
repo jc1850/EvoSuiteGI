@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.test.JUnitBridgeTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:49:25" hostname="james-HP-ProDesk-400-G6-MT" time="6.138">
+  <properties/>
+  <testcase name="runTestWithException" classname="gin.test.JUnitBridgeTest" time="0.275"/>
+  <testcase name="timeout" classname="gin.test.JUnitBridgeTest" time="2.112"/>
+  <testcase name="incorrectClassName" classname="gin.test.JUnitBridgeTest" time="0.631"/>
+  <testcase name="faultyTest" classname="gin.test.JUnitBridgeTest" time="0.811"/>
+  <testcase name="assertionError" classname="gin.test.JUnitBridgeTest" time="0.428"/>
+  <testcase name="incorrectMethodName" classname="gin.test.JUnitBridgeTest" time="0.651"/>
+  <testcase name="ignoredTest" classname="gin.test.JUnitBridgeTest" time="0.716"/>
+  <testcase name="falseAssumption" classname="gin.test.JUnitBridgeTest" time="0.513"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[2022-06-30 16:49:28 gin.test.JUnitBridge.runTest() ERROR: Unable to find test class file: ErrorTes.testFaultyTest []
+2022-06-30 16:49:28 gin.test.JUnitBridge.runTest() ERROR: Is the class file on provided classpath?
+2022-06-30 16:49:30 gin.test.JUnitBridge.runTest() ERROR: Test method testFaultyTes not found in ErrorTest
+2022-06-30 16:49:30 gin.test.JUnitBridge.runTest() ERROR: Note that parametirised JUnit tetsts are not allowed in Gin.
+]]></system-err>
+</testsuite>

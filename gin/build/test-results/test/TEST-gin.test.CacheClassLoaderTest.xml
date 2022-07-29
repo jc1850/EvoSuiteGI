@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gin.test.CacheClassLoaderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-30T15:49:24" hostname="james-HP-ProDesk-400-G6-MT" time="0.583">
+  <properties/>
+  <testcase name="resources" classname="gin.test.CacheClassLoaderTest" time="0.012"/>
+  <testcase name="loadTestRunner" classname="gin.test.CacheClassLoaderTest" time="0.002"/>
+  <testcase name="loadSystemClass" classname="gin.test.CacheClassLoaderTest" time="0.001"/>
+  <testcase name="loadClass" classname="gin.test.CacheClassLoaderTest" time="0.568"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
