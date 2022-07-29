@@ -7,6 +7,8 @@ We provide supplementary material an instructions on how to reproduce our experi
 
 The best patches generated in our experiments can be found in the Patches directory.
 
+The flies are sorted from best patches to worst patches, traditional diffs can be viewed usings gin's patch analyser.
+
 ## Pareto Fronts
 
 Graphs displaying the pareto fronts found accross our experiments are in the Fronts directory.
